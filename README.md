@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=h2ofriday&langs_count=20&layout=compact&&hide_title=true&&)](https://github.com/anuraghazra/github-readme-stats) -->
 <a href="https://app.daily.dev/n2pluto"><img src="https://api.daily.dev/devcards/4f16604abb874f6e9e5ec3155ea1baf7.png?r=h7h" width="400" alt="Pollawat Lueakaew's Dev Card"/></a>
